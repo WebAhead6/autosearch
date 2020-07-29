@@ -1,0 +1,19 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: fantasy;
+}
+
+body {
+  background-image: url("/public/empire_state.jpg");
+}
+.submit-btn {
+  font-size: 100 px;
+  border-width: 20px;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
