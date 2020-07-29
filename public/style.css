@@ -1,0 +1,9 @@
+body {
+  background-image: url(villages-nature-paris.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  
+}
